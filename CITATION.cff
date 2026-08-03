@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Ao utilizar este código, cite a autora e a versão do repositório."
+title: "Harmonização dos estoques de carbono orgânico do solo para 0–30 cm"
+type: software
+authors:
+  - family-names: "Cassamo"
+    given-names: "Delara Maryamo Ibraimo"
+version: "1.0.4"
+date-released: "2026-08-03"
+abstract: "Código utilizado para a padronização, auditoria e harmonização dos estoques de carbono orgânico do solo na camada de 0–30 cm em cronossequências floresta–pastagem da Amazônia brasileira."
+keywords:
+  - soil organic carbon
+  - forest pasture transition
+  - data harmonization
+  - chronosequence
+  - Amazon biome
+  - R
