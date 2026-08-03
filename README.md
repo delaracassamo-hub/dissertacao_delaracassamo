@@ -80,8 +80,6 @@ dissertacao-COS-amazonia/
 │   ├── 07_diferencas_COS_por_UG/
 │   ├── 08_trajetorias_temporais_por_UG/
 │   └── 09_tabelas_e_controles/
-├── GEE/
-│   └── 01_estimativa_coordenadas/
 ├── dados/
 │   ├── entrada/
 │   └── processados/
@@ -91,7 +89,7 @@ dissertacao-COS-amazonia/
 │   └── logs/
 ├── docs/
 ├── CITATION.cff
-├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
